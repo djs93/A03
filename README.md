@@ -21,6 +21,32 @@
 6. If it has not auto-detected Git, find the executable for Git in C:\Program Files\Git\cmd\git.exe
 7. Under Version Control > GitHub, add your account
 
+## Create a New File in Your Project
+1. Right click the project folder
+2. Click New > HTML File
+3. Enter a name and select HTML5 File
+4. Modify the page title to your liking
+
+## Enable Version Control on Your Project
+1. Click VCS > Enable Version Control Integration...
+2. Make sure the box says Git and hit OK
+
+## First Commit and Push
+1. Right click on the index.html file in the project explorer (the file should be red if you correctly set up version control)
+2. Got to Git > Add (the file should turn green and pop up with a green highlight in the bottom right)
+3. Hit Control+K or click the green check mark near the bottom left to open the commit dialogue.
+4. Enter a commit message (Ex: "Added Hello World index.html")
+5. Create a new repository on GitHub by navigating to https://github.com/ and clicking the green "New" button next to Repositories
+6. Name it and create the repository
+7. Hit the clone or download button
+8. Copy the .git link presented
+9. Hit Control+Shift+K to open the Push dialogue
+10. Click "define remote" on the dialogue that pops up
+11. (Optional) change the name of the remote
+12. Paste the .git link in the URL box
+13. Hit OK
+14. Click Push
+
 Git - Local version control system
 
 Github - Online storage and viewer for Git repositories (online version control)

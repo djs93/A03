@@ -1,5 +1,26 @@
 # A03
 
+## Installing WebStorm
+1. Create a student account using https://www.jetbrains.com/shop/eform/students
+2. Download WebStorm from https://www.jetbrains.com/webstorm/download/#section=windows
+
+## Create a GitHub Account
+1. Go to https://github.com/join
+2. Create an account
+
+## Install Git
+1. Download Git from https://git-scm.com/downloads
+2. Run the installer
+
+## Connect WebStorm to Git and GitHub
+1. Open WebStorm
+2. Create an empty project
+3. Hit Control-Alt-S
+4. Go to Version Control > Git
+5. If it has auto-detected Git, click Test to make sure it works
+6. If it has not auto-detected Git, find the executable for Git in C:\Program Files\Git\cmd\git.exe
+7. Under Version Control > GitHub, add your account
+
 Git - Local version control system
 
 Github - Online storage and viewer for Git repositories (online version control)

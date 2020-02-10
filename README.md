@@ -18,8 +18,8 @@ Branch - Separate version of the same project, can edit it freely of modifying t
 
 Merge - Take a branch and combine its changes and history with another branch
 
-Merge Conflict
+Merge Conflict - When there are differences in a file's changes when attempting to merge two branches a merge conflict happens. This must be resolved before the merge can complete.
 
-Fetch
+Fetch - Git gathers any commits from the target branch that do not exist in your current branch and stores them in your local repository. However, it does not merge them with your current branch.
 
-Remote
+Remote - Remote repositories are versions of your project that are hosted on the Internet or network somewhere. Usually this will be origin when using GitHub by default. 

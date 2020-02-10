@@ -12,7 +12,7 @@ Commit - Confirming changes to a branch in a repository, bundles changes togethe
 
 Push - Take changes from your local (on your computer) repository and upload them to a remote host (GitHub in our case)
 
-Pull
+Pull - Download changes and history from a remote host (GitHub in our case) and updates your local repository
 
 Branch
 

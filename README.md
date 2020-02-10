@@ -4,13 +4,13 @@ Git - Local version control system
 
 Github - Online storage and viewer for Git repositories (online version control)
 
-Repository - 
+Repository - Tracks all changes made to files in your project, building a history over time
 
-Clone
+Clone - Creating a copy of a repository
 
-Commit
+Commit - Confirming changes to a branch in a repository, bundles changes together
 
-Push
+Push - Take changes from your local (on your computer) repository and upload them to a remote host (GitHub in our case)
 
 Pull
 

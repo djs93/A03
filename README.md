@@ -14,9 +14,9 @@ Push - Take changes from your local (on your computer) repository and upload the
 
 Pull - Download changes and history from a remote host (GitHub in our case) and updates your local repository
 
-Branch
+Branch - Separate version of the same project, can edit it freely of modifying the master/other branches. Can be merged into other branches later.
 
-Merge
+Merge - Take a branch and combine its changes and history with another branch
 
 Merge Conflict
 

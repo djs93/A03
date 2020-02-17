@@ -47,6 +47,7 @@
 13. Hit OK
 14. Click Push
 
+##Definitions
 Git - Local version control system
 
 Github - Online storage and viewer for Git repositories (online version control)

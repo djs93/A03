@@ -37,7 +37,7 @@
 3. Hit Control+K or click the green check mark near the bottom left to open the commit dialogue.
 4. Enter a commit message (Ex: "Added Hello World index.html")
 5. Create a new repository on GitHub by navigating to https://github.com/ and clicking the green "New" button next to Repositories
-6. Name it and create the repository
+6. Name it and create the repository WITHOUT a readme or .gitignore
 7. Hit the clone or download button
 8. Copy the .git link presented
 9. Hit Control+Shift+K to open the Push dialogue
